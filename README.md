@@ -49,7 +49,7 @@ Al seguente link trovi lo swagger: https://services.paloalto.swiss:10443/api2/sw
 	e altri developers
 4. Hai usato strumenti di supporto (AI, StackOverflow, ecc)? Se sì, come?
  	Si ho usato StackOverflow, ChatGPT e la documentazione di .net, qua sotto spiego come:
-  - StackOverflow e .net mi hanno principalmente aiutato principalmente per tutto quello
+  - StackOverflow e la doc di .net mi hanno principalmente aiutato principalmente per tutto quello
 	che riguarda gestione dello swagger e httpclient
   - ChatGPT la ho usata per velocizzare il processo, cioe' se non mi ricordavo
 	un specifico metodo chiedevo a ChatGPT siccome e' molto piu veloce che cercare
